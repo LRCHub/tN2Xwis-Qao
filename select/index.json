@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "It Ain't Hard to Tell",
+  "base_artist": "Nas",
+  "createdAt": "2026-03-17T23:15:02.207684Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It Ain't Hard to Tell",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/01_It_Ain't_Hard_to_Tell_Nas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It Ain't Hard To Tell",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/02_It_Ain't_Hard_To_Tell_Nas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It Ain't Hard To Tell",
+      "artist": "Elzhi",
+      "has_synced": true,
+      "path": "select/03_It_Ain't_Hard_To_Tell_Elzhi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It Ain't Hard To Tell",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/04_It_Ain't_Hard_To_Tell_Nas.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It Ain't Hard to Tell",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/05_It_Ain't_Hard_to_Tell_Nas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It Ain't Hard to Tell",
+      "artist": "NasVEVO",
+      "has_synced": true,
+      "path": "select/06_It_Ain't_Hard_to_Tell_NasVEVO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It Ain’t Hard to Tell",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/07_It_Ain’t_Hard_to_Tell_Nas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It Ain't Hard to Tell (remix)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/08_It_Ain't_Hard_to_Tell_(remix)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Ain't Hard To Tell (1994)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/09_It_Ain't_Hard_To_Tell_(1994)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Aint Hard to Tell",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/10_It_Aint_Hard_to_Tell_Nas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It Ain't Hard To Tell",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/pl_01_It_Ain't_Hard_To_Tell_Nas.txt"
+    }
+  ]
+}
